@@ -156,7 +156,8 @@ p {
     height: auto;
     z-index: 90;
     pointer-events: none;
-
+    border-radius: 40%;
 }
+
 
 
